@@ -23,6 +23,10 @@ body {
     background-position: center;
     min-height: 100dvh;
 }
+a{
+  text-decoration: none;
+  color: black;
+}
 
 header{
   padding: 16px;
